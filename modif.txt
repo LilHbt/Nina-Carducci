@@ -1,0 +1,22 @@
+HTML: 
+- div #aboutme trop grosse
+- ajouter un alt a TOUTES les images
+- ajouter le title et lang dans <head>
+-labels dans le forms
+- modifier les balises de heading (header h1, article , ajouter footer)
+- ajouter meta description
+
+Redim les images:
+-slider et gallery
+
+CSS: 
+-enlever le code inutile
+
+
+JS: 
+-refaire la galery avec moins de code ?
+
+
+
+
+Se renseigner sur le LCP(largest content paint )
